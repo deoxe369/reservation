@@ -1,0 +1,21 @@
+{
+  "selectedDate": "  ",
+  "reserveInfo": [
+    {
+      "name": "som",
+      "mobileNumber": "0955215197",
+      "reserveDate": "2020-02-12",
+      "checkIn": "2020-02-12 17:00:00",
+      "checkOut": "2020-02-12 19:30:00",
+      "persons": 5
+    },
+    {
+      "name": "som",
+      "mobileNumber": "0955215198",
+      "reserveDate": "2020-02-12",
+      "checkIn": "2020-02-12 19:00:00",
+      "checkOut": "2020-02-12 20:00:00",
+      "persons": 3
+    }
+  ]
+}
